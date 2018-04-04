@@ -1,0 +1,5 @@
+@media print {
+    .head {
+        text-align: left;
+    }
+}
